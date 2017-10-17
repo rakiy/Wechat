@@ -1,0 +1,25 @@
+{
+	"name" : "rakiy/wechat",
+	"description" : "wechat package for thinkphp5",
+	"version" : "1.0",
+	"require" : {
+		"php" : ">=5.1.0"
+	},
+	"authors" : {
+		"name" : "rakiy",
+		"email" : "xux851@gmail.com"
+	},
+	"keywords" : [ "wechat", "weixin", "thinkphp"],
+	"support" : {
+		"issues" : "https://github.com/rakiy/wechat/issues",
+		"wiki"      : "https://github.com/rakiy/wechat/wiki",
+		"source" : "https://github.com/rakiy/wechat"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"think\\wechat\\" : ""
+		}
+	},
+	"type" : "library",
+	"license" : "LGPL"
+}
