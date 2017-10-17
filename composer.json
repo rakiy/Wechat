@@ -1,16 +1,24 @@
 {
-	"name" : "rakiy/wechat_tp5",
-	"description" : "wechat package for thinkphp5",
+	"name": "rakiy/wechat",
+	"description": "wechat package for thinkphp5",
+	"authors": [
+		{
+			"name": "rakiy",
+			"email": "xux851@gmail.com"
+		}
+	],
 	"keywords" : [ "wechat", "weixin", "thinkphp"],
 	"version" : "1.0",
-	"authors" : [{
-		"name" : "rakiy",
-		"email" : "xux851@gmail.com"
-	}],
-	"require" : {
-		"topthink/framework": "5.1.x-dev"
+	"type": "library",
+	"require": {
+		"topthink/framework": "5.1.*"
 	},
+	"require-dev": {
+		"topthink/framework": "5.1.*-dev"
+	},
+	"license": "MIT",
 	
+	"minimum-stability": "dev",
 	"support" : {
 		"issues" : "https://github.com/rakiy/wechat/issues",
 		"wiki"      : "https://github.com/rakiy/wechat/wiki",
@@ -21,6 +29,4 @@
 			"think\\wechat\\" : "src/"
 		}
 	},
-	"type" : "library",
-	"license" : "LGPL"
 }
