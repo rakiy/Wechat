@@ -17,7 +17,6 @@
 		"topthink/framework": "5.1.*-dev"
 	},
 	"license": "MIT",
-	
 	"minimum-stability": "dev",
 	"support" : {
 		"issues" : "https://github.com/rakiy/wechat/issues",
