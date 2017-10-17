@@ -8,7 +8,7 @@
 		"email" : "xux851@gmail.com"
 	}],
 	"require" : {
-		"topthink/framework": "5.*"
+		"topthink/framework": "5.*-dev"
 	},
 	
 	"support" : {
