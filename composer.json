@@ -3,10 +3,10 @@
     "description": "wechat package for thinkphp5",
     "type": "library",
     "require": {
-        "topthink/framework": "5.1.*"
+        "topthink/framework": "5.*"
     },
     "require-dev": {
-        "topthink/framework": "5.1.*-dev"
+        "topthink/framework": "5.*-dev"
     },
     "license": "MIT",
     "authors": [
